@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-contato@studiovisual.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@studiovisual.com.br)](mailto:contato@studiovisual.com.br)
 [![GitHub Studio Visua](https://img.shields.io/github/followers/studiovisual?label=Seguir&style=social)](https://github.com/studiovisual)
 
-<img alt="Banner - Studio Visual" src="banner-github.png" />
+<img alt="Banner - Studio Visual" src="https://github.com/studiovisual/.github/blob/master/profile/banner-github.png" />
 
 <p>Ultrapasse as metas do seu projeto digital com a Studio Visual.</p>
 
